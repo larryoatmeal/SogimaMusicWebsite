@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 github: {
     "versions": {
         "jekyll": <version>,
